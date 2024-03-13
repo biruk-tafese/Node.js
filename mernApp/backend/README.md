@@ -1,0 +1,1 @@
+# This app is dedicated to learn MERNSTACK using a video tutorial
