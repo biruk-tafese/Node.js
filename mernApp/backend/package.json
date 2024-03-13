@@ -1,10 +1,11 @@
 {
-  "name": "node",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "mern stack youtube tutorial from js mastery",
+  "description": "Tutorial from Js Mastery ",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node backend/serve.js",
+    "server": "nodemon backend/server.Js"
   },
   "author": "Biruk Tafese",
   "license": "ISC",
@@ -15,6 +16,6 @@
     "mongoose": "^8.2.1"
   },
   "devDependencies": {
-    "nodeman": "^1.1.2"
+    "nodemon": "^3.1.0"
   }
 }
