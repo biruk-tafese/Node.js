@@ -4,8 +4,8 @@
   "description": "Tutorial from Js Mastery ",
   "main": "server.js",
   "scripts": {
-    "start": "node backend/serve.js",
-    "server": "nodemon backend/server.Js"
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
   },
   "author": "Biruk Tafese",
   "license": "ISC",
