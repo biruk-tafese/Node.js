@@ -3,6 +3,7 @@ import authService from "./authService";
 
 const initialState = {
     user: null,
+    
     isError: false,
     isSuccess: false,
     isLoading: false,
